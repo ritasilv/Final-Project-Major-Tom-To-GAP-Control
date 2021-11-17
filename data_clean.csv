@@ -657,7 +657,7 @@
 656,25-29,Man,India,Master’s degree,Research Scientist,< 1 years,3,Under 1 year,Academics/Education,50-249 employees,5-9,0-999
 657,30-34,Man,India,Master’s degree,Data Engineer,< 1 years,2,Under 1 year,Online Service/Internet-based Services,"10,000 or more employees",20+,"10,000-14,999"
 658,35-39,Man,Indonesia,Master’s degree,Other,10-20 years,3,1-2 years,Academics/Education,"1000-9,999 employees",5-9,"10,000-14,999"
-659,70+,Man,Italy,Some college no bachelor,Developer Relations/Advocacy,20+ years,4,20 or more years,Marketing/CRM,"10,000 or more employees",20+,">1,000,000"
+659,70+,Man,Italy,Some college no bachelor,Developer Relations/Advocacy,20+ years,4,20 or more years,Marketing/CRM,"10,000 or more employees",20+,"1,000,000"
 660,18-21,Man,Mexico,Some college no bachelor,Student,1-3 years,2,No experience,,,,nan
 661,22-24,Woman,Bangladesh,Master’s degree,Student,< 1 years,1,Under 1 year,,,,nan
 662,35-39,Woman,USA,Doctoral degree,Research Scientist,3-5 years,2,No experience,Academics/Education,50-249 employees,3-4,"60,000-69,999"
@@ -1830,7 +1830,7 @@
 1829,30-34,Man,South Africa,Master’s degree,Other,< 1 years,3,Under 1 year,Academics/Education,250-999 employees,0,0-999
 1830,18-21,Man,India,Bachelor’s degree,DBA/Database Engineer,< 1 years,2,No experience,Computers/Technology,50-249 employees,5-9,"5,000-7,499"
 1831,25-29,Man,Japan,Bachelor’s degree,Data Analyst,1-3 years,2,1-2 years,Online Business/Internet-based Sales,"1000-9,999 employees",20+,"30,000-39,999"
-1832,55-59,Man,USA,Doctoral degree,Data Scientist,20+ years,4,No experience,Computers/Technology,0-49 employees,1-2,">1,000,000"
+1832,55-59,Man,USA,Doctoral degree,Data Scientist,20+ years,4,No experience,Computers/Technology,0-49 employees,1-2,"1,000,000"
 1833,22-24,Man,USA,Master’s degree,Student,3-5 years,2,1-2 years,,,,nan
 1834,25-29,Woman,India,Doctoral degree,Data Engineer,< 1 years,3,1-2 years,Computers/Technology,50-249 employees,3-4,0-999
 1835,55-59,Man,USA,Some college no bachelor,Data Engineer,20+ years,5,Under 1 year,Medical/Pharmaceutical,250-999 employees,10-14,"90,000-99,999"
@@ -1974,7 +1974,7 @@
 1973,50-54,Man,Russia,Master’s degree,Program/Project Manager,< 1 years,2,1-2 years,Computers/Technology,"10,000 or more employees",20+,"10,000-14,999"
 1974,35-39,Man,South Korea,Some college no bachelor,Other,10-20 years,1,Under 1 year,Other,50-249 employees,0,"80,000-89,999"
 1975,25-29,Man,India,Bachelor’s degree,Business Analyst,No experience,0,,Academics/Education,"1000-9,999 employees",20+,"50,000-59,999"
-1976,35-39,Man,Japan,Master’s degree,Data Scientist,5-10 years,4,2-3 years,Manufacturing/Fabrication,"10,000 or more employees",0,">1,000,000"
+1976,35-39,Man,Japan,Master’s degree,Data Scientist,5-10 years,4,2-3 years,Manufacturing/Fabrication,"10,000 or more employees",0,"1,000,000"
 1977,22-24,Man,USA,Bachelor’s degree,Student,3-5 years,3,Under 1 year,,,,nan
 1978,45-49,Woman,Singapore,Master’s degree,Program/Project Manager,No experience,0,,Hospitality/Entertainment/Sports,0-49 employees,0,"20,000-24,999"
 1979,45-49,Man,Germany,High school,Machine Learning Engineer,20+ years,2,20 or more years,Academics/Education,"10,000 or more employees",3-4,"2,000-2,999"
@@ -1986,7 +1986,7 @@
 1985,25-29,Man,Viet Nam,I prefer not to answer,Data Scientist,< 1 years,1,Under 1 year,Academics/Education,250-999 employees,5-9,"25,000-29,999"
 1986,22-24,Woman,India,Master’s degree,Student,< 1 years,5,Under 1 year,,,,nan
 1987,40-44,Man,Pakistan,Some college no bachelor,DBA/Database Engineer,3-5 years,1,Under 1 year,Computers/Technology,50-249 employees,3-4,"10,000-14,999"
-1988,22-24,Man,Pakistan,Master’s degree,Other,1-3 years,2,1-2 years,Energy/Mining,"10,000 or more employees",3-4,">1,000,000"
+1988,22-24,Man,Pakistan,Master’s degree,Other,1-3 years,2,1-2 years,Energy/Mining,"10,000 or more employees",3-4,"1,000,000"
 1989,18-21,Man,India,Bachelor’s degree,Student,< 1 years,1,No experience,,,,nan
 1990,22-24,Man,India,Bachelor’s degree,Data Analyst,1-3 years,2,1-2 years,Medical/Pharmaceutical,"1000-9,999 employees",20+,"10,000-14,999"
 1991,35-39,Man,Malaysia,Master’s degree,Research Scientist,No experience,0,,Government/Public Service,50-249 employees,20+,"1,000-1,999"
@@ -2086,7 +2086,7 @@
 2085,40-44,Man,India,Bachelor’s degree,Product Manager,5-10 years,2,2-3 years,Shipping/Transportation,"10,000 or more employees",15-19,nan
 2086,40-44,Man,Nigeria,Bachelor’s degree,Data Analyst,1-3 years,1,2-3 years,Retail/Sales,250-999 employees,1-2,"1,000-1,999"
 2087,22-24,Man,India,Bachelor’s degree,Currently not employed,< 1 years,1,Under 1 year,,,,nan
-2088,40-44,Man,France,Doctoral degree,Program/Project Manager,10-20 years,6,3-4 years,Computers/Technology,"1000-9,999 employees",10-14,">1,000,000"
+2088,40-44,Man,France,Doctoral degree,Program/Project Manager,10-20 years,6,3-4 years,Computers/Technology,"1000-9,999 employees",10-14,"1,000,000"
 2089,30-34,Man,India,Master’s degree,Data Analyst,< 1 years,1,Under 1 year,Accounting/Finance,0-49 employees,1-2,"2,000-2,999"
 2090,22-24,Man,India,Bachelor’s degree,Student,< 1 years,1,Under 1 year,,,,nan
 2091,50-54,Man,Japan,Bachelor’s degree,Program/Project Manager,< 1 years,1,Under 1 year,Accounting/Finance,"10,000 or more employees",0,"100,000-124,999"
@@ -3555,7 +3555,7 @@
 3554,25-29,Man,Other,Bachelor’s degree,Student,1-3 years,5,Under 1 year,,,,nan
 3555,25-29,Man,India,Bachelor’s degree,Currently not employed,1-3 years,3,Under 1 year,,,,nan
 3556,18-21,Man,China,Some college no bachelor,Student,1-3 years,2,Under 1 year,,,,nan
-3557,40-44,Man,USA,Some college no bachelor,Machine Learning Engineer,20+ years,3,20 or more years,Computers/Technology,0-49 employees,10-14,">1,000,000"
+3557,40-44,Man,USA,Some college no bachelor,Machine Learning Engineer,20+ years,3,20 or more years,Computers/Technology,0-49 employees,10-14,"1,000,000"
 3558,22-24,Man,India,Bachelor’s degree,Data Scientist,1-3 years,2,1-2 years,Online Service/Internet-based Services,250-999 employees,1-2,"5,000-7,499"
 3559,18-21,Man,Viet Nam,Bachelor’s degree,Data Scientist,1-3 years,4,Under 1 year,Computers/Technology,0-49 employees,0,0-999
 3560,35-39,Woman,India,Doctoral degree,Data Scientist,3-5 years,4,Under 1 year,Academics/Education,50-249 employees,3-4,"5,000-7,499"
@@ -4374,7 +4374,7 @@
 4373,22-24,Man,USA,Bachelor’s degree,Student,1-3 years,1,Under 1 year,,,,nan
 4374,22-24,Man,Other,Doctoral degree,Research Scientist,1-3 years,2,Under 1 year,Academics/Education,0-49 employees,3-4,"15,000-19,999"
 4375,25-29,Man,Nigeria,Bachelor’s degree,Currently not employed,1-3 years,3,Under 1 year,,,,nan
-4376,22-24,Woman,India,Master’s degree,Software Engineer,3-5 years,4,1-2 years,Computers/Technology,"10,000 or more employees",10-14,">1,000,000"
+4376,22-24,Woman,India,Master’s degree,Software Engineer,3-5 years,4,1-2 years,Computers/Technology,"10,000 or more employees",10-14,"1,000,000"
 4377,30-34,Man,Japan,Master’s degree,Data Engineer,< 1 years,1,No experience,Manufacturing/Fabrication,"10,000 or more employees",20+,"5,000-7,499"
 4378,18-21,Man,India,Master’s degree,Data Scientist,1-3 years,1,No experience,Computers/Technology,250-999 employees,1-2,0-999
 4379,22-24,Man,India,Master’s degree,Business Analyst,3-5 years,2,1-2 years,Computers/Technology,"10,000 or more employees",10-14,"10,000-14,999"
@@ -4751,7 +4751,7 @@
 4750,22-24,Man,India,Bachelor’s degree,Student,< 1 years,3,No experience,,,,nan
 4751,30-34,Man,Ecuador,Master’s degree,Data Analyst,< 1 years,3,Under 1 year,Academics/Education,50-249 employees,1-2,"1,000-1,999"
 4752,50-54,Woman,UK,Master’s degree,Other,20+ years,1,2-3 years,Computers/Technology,50-249 employees,1-2,"150,000-199,999"
-4753,35-39,Other,USA,Bachelor’s degree,Developer Relations/Advocacy,1-3 years,1,1-2 years,Accounting/Finance,"10,000 or more employees",20+,">1,000,000"
+4753,35-39,Other,USA,Bachelor’s degree,Developer Relations/Advocacy,1-3 years,1,1-2 years,Accounting/Finance,"10,000 or more employees",20+,"1,000,000"
 4754,35-39,Man,Netherlands,Bachelor’s degree,Program/Project Manager,1-3 years,2,,,,,nan
 4755,60-69,Man,USA,Master’s degree,Software Engineer,20+ years,2,20 or more years,Insurance/Risk Assessment,"10,000 or more employees",20+,"150,000-199,999"
 4756,55-59,Man,Argentina,Master’s degree,Student,No experience,0,,,,,nan
@@ -5034,7 +5034,7 @@
 5033,18-21,Woman,India,Bachelor’s degree,Student,< 1 years,2,Under 1 year,,,,nan
 5034,55-59,Man,Philippines,Doctoral degree,Data Scientist,3-5 years,1,2-3 years,Academics/Education,250-999 employees,3-4,"20,000-24,999"
 5035,18-21,Man,India,High school,Data Scientist,< 1 years,1,No experience,Academics/Education,0-49 employees,3-4,nan
-5036,22-24,Man,Nepal,Bachelor’s degree,Software Engineer,< 1 years,1,1-2 years,Computers/Technology,"1000-9,999 employees",20+,">1,000,000"
+5036,22-24,Man,Nepal,Bachelor’s degree,Software Engineer,< 1 years,1,1-2 years,Computers/Technology,"1000-9,999 employees",20+,"1,000,000"
 5037,25-29,Man,India,Master’s degree,Business Analyst,< 1 years,3,No experience,Manufacturing/Fabrication,50-249 employees,0,"15,000-19,999"
 5038,18-21,Man,Viet Nam,Master’s degree,Student,1-3 years,1,1-2 years,,,,nan
 5039,35-39,Man,Spain,Master’s degree,Other,< 1 years,1,Under 1 year,Other,250-999 employees,0,"25,000-29,999"
@@ -5281,7 +5281,7 @@
 5280,22-24,Man,India,Bachelor’s degree,Data Scientist,1-3 years,1,1-2 years,Computers/Technology,"1000-9,999 employees",3-4,0-999
 5281,25-29,Man,Australia,Bachelor’s degree,Other,3-5 years,3,Under 1 year,Accounting/Finance,0-49 employees,0,"90,000-99,999"
 5282,22-24,Man,India,Master’s degree,Currently not employed,1-3 years,3,1-2 years,,,,nan
-5283,45-49,Man,UK,Master’s degree,Software Engineer,20+ years,3,1-2 years,Computers/Technology,0-49 employees,0,">1,000,000"
+5283,45-49,Man,UK,Master’s degree,Software Engineer,20+ years,3,1-2 years,Computers/Technology,0-49 employees,0,"1,000,000"
 5284,18-21,Man,Thailand,Master’s degree,Student,1-3 years,1,Under 1 year,,,,nan
 5285,35-39,Man,Viet Nam,I prefer not to answer,Other,1-3 years,2,No experience,,,,nan
 5286,18-21,Man,India,Bachelor’s degree,Data Scientist,3-5 years,5,Under 1 year,Academics/Education,0-49 employees,0,0-999
@@ -5507,7 +5507,7 @@
 5506,45-49,Man,South Korea,Master’s degree,Software Engineer,20+ years,4,2-3 years,Computers/Technology,0-49 employees,1-2,"70,000-79,999"
 5507,18-21,Man,Pakistan,Bachelor’s degree,Student,3-5 years,5,2-3 years,,,,nan
 5508,18-21,Man,China,Some college no bachelor,Student,1-3 years,2,,,,,nan
-5509,40-44,Man,South Korea,Master’s degree,Data Engineer,1-3 years,3,Under 1 year,Computers/Technology,"1000-9,999 employees",10-14,">1,000,000"
+5509,40-44,Man,South Korea,Master’s degree,Data Engineer,1-3 years,3,Under 1 year,Computers/Technology,"1000-9,999 employees",10-14,"1,000,000"
 5510,25-29,Man,Japan,Bachelor’s degree,Data Scientist,3-5 years,5,1-2 years,Academics/Education,50-249 employees,1-2,"4,000-4,999"
 5511,25-29,Woman,Turkey,Doctoral degree,Other,1-3 years,3,2-3 years,Academics/Education,250-999 employees,1-2,nan
 5512,35-39,Man,USA,Master’s degree,Other,10-20 years,3,2-3 years,Computers/Technology,"1000-9,999 employees",20+,nan
@@ -6273,7 +6273,7 @@
 6272,22-24,Man,Indonesia,Bachelor’s degree,Student,< 1 years,2,Under 1 year,,,,nan
 6273,25-29,Man,Other,Bachelor’s degree,Student,5-10 years,9,No experience,,,,nan
 6274,18-21,Man,USA,Bachelor’s degree,Student,1-3 years,2,1-2 years,,,,nan
-6275,22-24,Man,India,Bachelor’s degree,Data Scientist,1-3 years,3,1-2 years,Accounting/Finance,0-49 employees,5-9,">1,000,000"
+6275,22-24,Man,India,Bachelor’s degree,Data Scientist,1-3 years,3,1-2 years,Accounting/Finance,0-49 employees,5-9,"1,000,000"
 6276,40-44,Man,India,Master’s degree,Data Analyst,3-5 years,4,Under 1 year,Online Service/Internet-based Services,250-999 employees,10-14,"40,000-49,999"
 6277,18-21,Man,Ireland,Some college no bachelor,Machine Learning Engineer,10-20 years,4,4-5 years,Retail/Sales,50-249 employees,1-2,"60,000-69,999"
 6278,22-24,Woman,India,Bachelor’s degree,Student,1-3 years,1,No experience,,,,nan
@@ -6513,7 +6513,7 @@
 6512,30-34,Woman,India,Master’s degree,Data Analyst,5-10 years,3,1-2 years,Hospitality/Entertainment/Sports,50-249 employees,5-9,0-999
 6513,40-44,Man,Egypt,Bachelor’s degree,Program/Project Manager,10-20 years,5,No experience,Manufacturing/Fabrication,50-249 employees,1-2,"10,000-14,999"
 6514,22-24,Man,Bangladesh,Bachelor’s degree,Student,3-5 years,2,Under 1 year,,,,nan
-6515,45-49,Man,USA,Master’s degree,Data Scientist,10-20 years,3,10-20 years,Computers/Technology,"10,000 or more employees",20+,">1,000,000"
+6515,45-49,Man,USA,Master’s degree,Data Scientist,10-20 years,3,10-20 years,Computers/Technology,"10,000 or more employees",20+,"1,000,000"
 6516,40-44,Woman,UAE,Bachelor’s degree,Currently not employed,No experience,0,,,,,nan
 6517,25-29,Man,Kenya,I prefer not to answer,Other,No experience,0,,Accounting/Finance,250-999 employees,1-2,"5,000-7,499"
 6518,25-29,Man,Nepal,Bachelor’s degree,Currently not employed,1-3 years,1,2-3 years,,,,nan
@@ -6542,7 +6542,7 @@
 6541,35-39,Man,UAE,Master’s degree,Data Analyst,10-20 years,3,1-2 years,Medical/Pharmaceutical,50-249 employees,1-2,nan
 6542,18-21,Man,Japan,Some college no bachelor,Student,< 1 years,1,Under 1 year,,,,nan
 6543,30-34,Man,Japan,Master’s degree,Other,5-10 years,3,1-2 years,Manufacturing/Fabrication,"1000-9,999 employees",0,"200,000-249,999"
-6544,18-21,Man,India,Bachelor’s degree,Software Engineer,3-5 years,7,2-3 years,Online Service/Internet-based Services,"10,000 or more employees",20+,">1,000,000"
+6544,18-21,Man,India,Bachelor’s degree,Software Engineer,3-5 years,7,2-3 years,Online Service/Internet-based Services,"10,000 or more employees",20+,"1,000,000"
 6545,18-21,Man,India,Bachelor’s degree,Student,1-3 years,3,,,,,nan
 6546,30-34,Man,India,Master’s degree,Business Analyst,1-3 years,1,No experience,Manufacturing/Fabrication,"1000-9,999 employees",5-9,"1,000-1,999"
 6547,25-29,Man,India,Doctoral degree,Student,5-10 years,1,Under 1 year,,,,nan
@@ -7092,7 +7092,7 @@
 7091,40-44,Man,USA,Bachelor’s degree,Student,1-3 years,1,Under 1 year,,,,nan
 7092,25-29,Man,Chile,Master’s degree,Machine Learning Engineer,5-10 years,2,1-2 years,Energy/Mining,0-49 employees,1-2,"25,000-29,999"
 7093,40-44,Man,Netherlands,Master’s degree,Machine Learning Engineer,10-20 years,3,5-10 years,Shipping/Transportation,50-249 employees,3-4,"70,000-79,999"
-7094,25-29,Man,Germany,Bachelor’s degree,Other,10-20 years,4,Under 1 year,Computers/Technology,"1000-9,999 employees",20+,">1,000,000"
+7094,25-29,Man,Germany,Bachelor’s degree,Other,10-20 years,4,Under 1 year,Computers/Technology,"1000-9,999 employees",20+,"1,000,000"
 7095,18-21,Woman,Viet Nam,Bachelor’s degree,Student,1-3 years,2,Under 1 year,,,,nan
 7096,25-29,Man,India,Bachelor’s degree,Currently not employed,< 1 years,4,,,,,nan
 7097,25-29,Man,USA,Master’s degree,Software Engineer,3-5 years,3,Under 1 year,Medical/Pharmaceutical,"1000-9,999 employees",1-2,"90,000-99,999"
@@ -7188,7 +7188,7 @@
 7187,30-34,Man,Other,Bachelor’s degree,Student,5-10 years,5,Under 1 year,,,,nan
 7188,25-29,Woman,India,Bachelor’s degree,Software Engineer,1-3 years,3,Under 1 year,Computers/Technology,"10,000 or more employees",0,"5,000-7,499"
 7189,25-29,Man,Italy,Master’s degree,Data Scientist,5-10 years,3,4-5 years,Online Service/Internet-based Services,"1000-9,999 employees",5-9,"50,000-59,999"
-7190,70+,Other,Other,Professional doctorate,Other,No experience,0,,Non-profit/Service,"10,000 or more employees",0,">1,000,000"
+7190,70+,Other,Other,Professional doctorate,Other,No experience,0,,Non-profit/Service,"10,000 or more employees",0,"1,000,000"
 7191,22-24,Woman,Other,Master’s degree,Data Engineer,3-5 years,2,Under 1 year,Other,0-49 employees,10-14,"2,000-2,999"
 7192,25-29,Man,India,Bachelor’s degree,Data Engineer,3-5 years,2,1-2 years,Other,"10,000 or more employees",1-2,"7,500-9,999"
 7193,25-29,Man,Switzerland,Master’s degree,Student,5-10 years,4,Under 1 year,,,,nan
@@ -7317,7 +7317,7 @@
 7316,18-21,Woman,India,Some college no bachelor,Student,< 1 years,1,No experience,,,,nan
 7317,18-21,Man,Indonesia,Bachelor’s degree,Currently not employed,1-3 years,1,No experience,,,,nan
 7318,45-49,Man,Japan,Master’s degree,Product Manager,20+ years,1,Under 1 year,Computers/Technology,"10,000 or more employees",0,"100,000-124,999"
-7319,40-44,Man,USA,Doctoral degree,Data Scientist,20+ years,2,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,">1,000,000"
+7319,40-44,Man,USA,Doctoral degree,Data Scientist,20+ years,2,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,"1,000,000"
 7320,50-54,Man,Israel,Doctoral degree,Research Scientist,10-20 years,1,2-3 years,Academics/Education,"1000-9,999 employees",1-2,0-999
 7321,35-39,Man,Iran,Bachelor’s degree,Currently not employed,1-3 years,1,Under 1 year,,,,nan
 7322,22-24,Man,Kenya,Bachelor’s degree,Student,< 1 years,3,Under 1 year,,,,nan
@@ -7772,7 +7772,7 @@
 7771,35-39,Man,Canada,Master’s degree,Data Analyst,3-5 years,2,2-3 years,Computers/Technology,"10,000 or more employees",15-19,"50,000-59,999"
 7772,45-49,Man,Denmark,Master’s degree,Data Scientist,20+ years,3,4-5 years,Accounting/Finance,250-999 employees,3-4,"125,000-149,999"
 7773,18-21,Man,Germany,I prefer not to answer,Data Scientist,< 1 years,2,Under 1 year,Other,0-49 employees,0,"10,000-14,999"
-7774,25-29,Woman,France,Bachelor’s degree,Business Analyst,< 1 years,1,No experience,Medical/Pharmaceutical,"1000-9,999 employees",20+,">1,000,000"
+7774,25-29,Woman,France,Bachelor’s degree,Business Analyst,< 1 years,1,No experience,Medical/Pharmaceutical,"1000-9,999 employees",20+,"1,000,000"
 7775,22-24,Man,Tunisia,Master’s degree,Machine Learning Engineer,1-3 years,4,1-2 years,Accounting/Finance,0-49 employees,3-4,0-999
 7776,22-24,Woman,India,Master’s degree,Student,3-5 years,5,Under 1 year,,,,nan
 7777,40-44,Man,Chile,Master’s degree,Product Manager,< 1 years,1,No experience,Energy/Mining,"1000-9,999 employees",1-2,"40,000-49,999"
@@ -7855,7 +7855,7 @@
 7854,45-49,Man,Other,Bachelor’s degree,Currently not employed,10-20 years,1,Under 1 year,,,,nan
 7855,18-21,Man,India,Bachelor’s degree,Student,1-3 years,1,Under 1 year,,,,nan
 7856,22-24,Man,Romania,Some college no bachelor,Software Engineer,3-5 years,3,No experience,Computers/Technology,250-999 employees,3-4,"15,000-19,999"
-7857,30-34,Man,USA,Some college no bachelor,Data Scientist,10-20 years,3,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,">1,000,000"
+7857,30-34,Man,USA,Some college no bachelor,Data Scientist,10-20 years,3,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,"1,000,000"
 7858,18-21,Woman,India,Bachelor’s degree,Student,< 1 years,4,No experience,,,,nan
 7859,25-29,Woman,USA,Bachelor’s degree,Student,< 1 years,4,No experience,,,,nan
 7860,22-24,Man,China,Some college no bachelor,Research Scientist,1-3 years,1,3-4 years,Energy/Mining,50-249 employees,0,nan
@@ -8165,7 +8165,7 @@
 8164,35-39,Man,Other,Master’s degree,Software Engineer,1-3 years,1,Under 1 year,Shipping/Transportation,"1000-9,999 employees",0,"10,000-14,999"
 8165,25-29,Man,China,Master’s degree,Data Scientist,3-5 years,1,3-4 years,Computers/Technology,"1000-9,999 employees",10-14,"4,000-4,999"
 8166,18-21,Woman,Nepal,Some college no bachelor,Currently not employed,1-3 years,1,Under 1 year,,,,nan
-8167,35-39,Man,Austria,Doctoral degree,Research Scientist,5-10 years,3,5-10 years,Academics/Education,50-249 employees,10-14,">1,000,000"
+8167,35-39,Man,Austria,Doctoral degree,Research Scientist,5-10 years,3,5-10 years,Academics/Education,50-249 employees,10-14,"1,000,000"
 8168,18-21,Man,USA,Bachelor’s degree,Student,3-5 years,4,4-5 years,,,,nan
 8169,35-39,Man,India,Bachelor’s degree,Software Engineer,10-20 years,2,Under 1 year,,,,nan
 8170,45-49,Man,France,Master’s degree,Data Scientist,10-20 years,1,4-5 years,Other,0-49 employees,1-2,"20,000-24,999"
@@ -9620,7 +9620,7 @@
 9619,35-39,Man,Turkey,Bachelor’s degree,Machine Learning Engineer,< 1 years,2,Under 1 year,Medical/Pharmaceutical,0-49 employees,0,"3,000-3,999"
 9620,45-49,Man,China,Bachelor’s degree,Data Analyst,5-10 years,3,1-2 years,Manufacturing/Fabrication,"1000-9,999 employees",3-4,"60,000-69,999"
 9621,22-24,Man,USA,Master’s degree,Research Scientist,10-20 years,1,4-5 years,Academics/Education,"1000-9,999 employees",5-9,"15,000-19,999"
-9622,45-49,Man,Israel,I prefer not to answer,Software Engineer,20+ years,4,No experience,Computers/Technology,"10,000 or more employees",15-19,">1,000,000"
+9622,45-49,Man,Israel,I prefer not to answer,Software Engineer,20+ years,4,No experience,Computers/Technology,"10,000 or more employees",15-19,"1,000,000"
 9623,35-39,Man,Poland,Doctoral degree,Data Engineer,10-20 years,4,4-5 years,Accounting/Finance,250-999 employees,10-14,"30,000-39,999"
 9624,35-39,Woman,South Korea,Bachelor’s degree,Data Analyst,1-3 years,1,1-2 years,Online Service/Internet-based Services,0-49 employees,1-2,"40,000-49,999"
 9625,30-34,Man,USA,Master’s degree,Student,< 1 years,2,Under 1 year,,,,nan
@@ -9768,7 +9768,7 @@
 9767,25-29,Woman,Other,Doctoral degree,Student,3-5 years,4,1-2 years,,,,nan
 9768,18-21,Man,Indonesia,Bachelor’s degree,Statistician,< 1 years,1,Under 1 year,Government/Public Service,"10,000 or more employees",10-14,0-999
 9769,30-34,Man,USA,Master’s degree,Software Engineer,3-5 years,4,No experience,Computers/Technology,"10,000 or more employees",1-2,"90,000-99,999"
-9770,60-69,Man,Other,Doctoral degree,Statistician,20+ years,3,5-10 years,Academics/Education,"1000-9,999 employees",20+,">1,000,000"
+9770,60-69,Man,Other,Doctoral degree,Statistician,20+ years,3,5-10 years,Academics/Education,"1000-9,999 employees",20+,"1,000,000"
 9771,50-54,Man,Russia,Bachelor’s degree,Currently not employed,1-3 years,1,3-4 years,,,,nan
 9772,35-39,Man,Sweden,Master’s degree,Data Analyst,< 1 years,3,No experience,Manufacturing/Fabrication,50-249 employees,1-2,"1,000-1,999"
 9773,22-24,Woman,Uganda,Bachelor’s degree,Currently not employed,< 1 years,3,Under 1 year,,,,nan
@@ -10467,7 +10467,7 @@
 10466,50-54,Man,USA,Bachelor’s degree,Other,No experience,0,,Computers/Technology,0-49 employees,0,"50,000-59,999"
 10467,22-24,Man,Other,Bachelor’s degree,Student,3-5 years,3,Under 1 year,,,,nan
 10468,18-21,Man,India,High school,Student,< 1 years,4,Under 1 year,,,,nan
-10469,30-34,Other,Indonesia,Master’s degree,Program/Project Manager,3-5 years,3,Under 1 year,Retail/Sales,50-249 employees,0,">1,000,000"
+10469,30-34,Other,Indonesia,Master’s degree,Program/Project Manager,3-5 years,3,Under 1 year,Retail/Sales,50-249 employees,0,"1,000,000"
 10470,25-29,Man,India,Doctoral degree,Student,5-10 years,3,2-3 years,,,,nan
 10471,25-29,Woman,Egypt,Bachelor’s degree,Research Scientist,3-5 years,3,4-5 years,Academics/Education,"10,000 or more employees",20+,0-999
 10472,60-69,Man,USA,Master’s degree,Data Scientist,20+ years,2,3-4 years,Broadcasting/Communications,"10,000 or more employees",20+,"150,000-199,999"
@@ -10711,7 +10711,7 @@
 10710,50-54,Man,South Korea,Doctoral degree,Data Scientist,20+ years,3,2-3 years,Academics/Education,0-49 employees,1-2,"40,000-49,999"
 10711,60-69,Man,UK,Bachelor’s degree,Data Scientist,20+ years,3,20 or more years,Government/Public Service,"1000-9,999 employees",20+,"80,000-89,999"
 10712,22-24,Man,Russia,Bachelor’s degree,Student,1-3 years,2,,,,,nan
-10713,25-29,Other,India,I prefer not to answer,Software Engineer,5-10 years,3,No experience,Accounting/Finance,"10,000 or more employees",20+,">1,000,000"
+10713,25-29,Other,India,I prefer not to answer,Software Engineer,5-10 years,3,No experience,Accounting/Finance,"10,000 or more employees",20+,"1,000,000"
 10714,35-39,Woman,Russia,Some college no bachelor,Data Scientist,< 1 years,2,No experience,Retail/Sales,50-249 employees,5-9,"10,000-14,999"
 10715,30-34,Man,Peru,Master’s degree,Student,1-3 years,1,1-2 years,,,,nan
 10716,18-21,Man,India,Some college no bachelor,Data Scientist,< 1 years,1,No experience,Academics/Education,0-49 employees,3-4,nan
@@ -11025,7 +11025,7 @@
 11024,25-29,Man,Japan,Doctoral degree,Research Scientist,3-5 years,2,2-3 years,Academics/Education,"10,000 or more employees",3-4,"20,000-24,999"
 11025,30-34,Man,Germany,Master’s degree,Research Scientist,5-10 years,1,2-3 years,Academics/Education,50-249 employees,3-4,"50,000-59,999"
 11026,30-34,Man,France,Doctoral degree,Data Scientist,5-10 years,3,3-4 years,Medical/Pharmaceutical,"10,000 or more employees",10-14,"60,000-69,999"
-11027,25-29,Man,China,Bachelor’s degree,Machine Learning Engineer,20+ years,11,1-2 years,Computers/Technology,"10,000 or more employees",15-19,">1,000,000"
+11027,25-29,Man,China,Bachelor’s degree,Machine Learning Engineer,20+ years,11,1-2 years,Computers/Technology,"10,000 or more employees",15-19,"1,000,000"
 11028,45-49,Man,Nepal,Master’s degree,Data Analyst,5-10 years,2,Under 1 year,Computers/Technology,0-49 employees,3-4,"7,500-9,999"
 11029,22-24,Man,India,Bachelor’s degree,Currently not employed,1-3 years,1,1-2 years,,,,nan
 11030,30-34,Woman,India,Master’s degree,Software Engineer,< 1 years,1,1-2 years,Broadcasting/Communications,"1000-9,999 employees",20+,0-999
@@ -11925,7 +11925,7 @@
 11924,30-34,Woman,India,Master’s degree,Student,5-10 years,3,2-3 years,,,,nan
 11925,22-24,Man,Other,I prefer not to answer,Machine Learning Engineer,< 1 years,1,Under 1 year,Computers/Technology,0-49 employees,1-2,"3,000-3,999"
 11926,22-24,Man,Indonesia,Bachelor’s degree,Currently not employed,1-3 years,4,Under 1 year,,,,nan
-11927,30-34,Man,USA,Master’s degree,Machine Learning Engineer,10-20 years,2,5-10 years,Computers/Technology,"10,000 or more employees",20+,">1,000,000"
+11927,30-34,Man,USA,Master’s degree,Machine Learning Engineer,10-20 years,2,5-10 years,Computers/Technology,"10,000 or more employees",20+,"1,000,000"
 11928,35-39,Man,Morocco,Master’s degree,Program/Project Manager,3-5 years,4,Under 1 year,Shipping/Transportation,"1000-9,999 employees",3-4,"15,000-19,999"
 11929,18-21,Man,Colombia,Some college no bachelor,Student,1-3 years,4,Under 1 year,,,,nan
 11930,30-34,Man,Bangladesh,Master’s degree,Currently not employed,< 1 years,1,No experience,,,,nan
@@ -12720,7 +12720,7 @@
 12719,22-24,Man,South Korea,Bachelor’s degree,Student,5-10 years,4,Under 1 year,,,,nan
 12720,18-21,Man,India,I prefer not to answer,Machine Learning Engineer,1-3 years,1,Under 1 year,Computers/Technology,,,nan
 12721,18-21,Woman,Japan,Bachelor’s degree,Student,< 1 years,1,Under 1 year,,,,nan
-12722,35-39,Man,Israel,Bachelor’s degree,Other,3-5 years,3,1-2 years,Computers/Technology,250-999 employees,20+,">1,000,000"
+12722,35-39,Man,Israel,Bachelor’s degree,Other,3-5 years,3,1-2 years,Computers/Technology,250-999 employees,20+,"1,000,000"
 12723,18-21,Woman,India,Master’s degree,Student,3-5 years,1,Under 1 year,,,,nan
 12724,50-54,Man,India,Bachelor’s degree,Program/Project Manager,20+ years,4,No experience,Medical/Pharmaceutical,"10,000 or more employees",5-9,"15,000-19,999"
 12725,30-34,Woman,Morocco,Master’s degree,Other,No experience,0,,Other,"10,000 or more employees",20+,"25,000-29,999"
@@ -14124,7 +14124,7 @@
 14123,22-24,Man,India,Master’s degree,Student,3-5 years,3,Under 1 year,,,,nan
 14124,18-21,Man,India,Bachelor’s degree,Student,3-5 years,5,1-2 years,,,,nan
 14125,35-39,Man,Other,Bachelor’s degree,Software Engineer,5-10 years,4,1-2 years,Academics/Education,0-49 employees,1-2,"3,000-3,999"
-14126,22-24,Man,India,Bachelor’s degree,Data Scientist,3-5 years,1,2-3 years,Non-profit/Service,"1000-9,999 employees",20+,">1,000,000"
+14126,22-24,Man,India,Bachelor’s degree,Data Scientist,3-5 years,1,2-3 years,Non-profit/Service,"1000-9,999 employees",20+,"1,000,000"
 14127,25-29,Woman,Taiwan,Master’s degree,Statistician,3-5 years,2,2-3 years,Other,50-249 employees,3-4,"2,000-2,999"
 14128,60-69,Man,Argentina,Master’s degree,Data Scientist,20+ years,3,2-3 years,Broadcasting/Communications,"1000-9,999 employees",3-4,"30,000-39,999"
 14129,22-24,Man,India,Bachelor’s degree,Student,< 1 years,1,Under 1 year,,,,nan
@@ -14364,7 +14364,7 @@
 14363,18-21,Man,India,Some college no bachelor,Student,< 1 years,3,No experience,,,,nan
 14364,45-49,Man,China,I prefer not to answer,Data Scientist,20+ years,6,4-5 years,Computers/Technology,0-49 employees,3-4,nan
 14365,35-39,Man,India,Master’s degree,Data Analyst,< 1 years,3,Under 1 year,Energy/Mining,"10,000 or more employees",20+,"40,000-49,999"
-14366,35-39,Man,USA,Master’s degree,Business Analyst,20+ years,11,1-2 years,Government/Public Service,"10,000 or more employees",20+,">1,000,000"
+14366,35-39,Man,USA,Master’s degree,Business Analyst,20+ years,11,1-2 years,Government/Public Service,"10,000 or more employees",20+,"1,000,000"
 14367,60-69,Man,Japan,Some college no bachelor,Software Engineer,20+ years,5,5-10 years,Medical/Pharmaceutical,0-49 employees,0,0-999
 14368,30-34,Man,Japan,Master’s degree,Machine Learning Engineer,5-10 years,1,5-10 years,Computers/Technology,"1000-9,999 employees",5-9,"100,000-124,999"
 14369,25-29,Man,Iran,Master’s degree,Currently not employed,1-3 years,2,Under 1 year,,,,nan
@@ -14983,7 +14983,7 @@
 14982,25-29,Man,Bangladesh,Master’s degree,Research Scientist,< 1 years,1,Under 1 year,Academics/Education,"1000-9,999 employees",5-9,0-999
 14983,18-21,Man,India,Bachelor’s degree,Student,1-3 years,5,No experience,,,,nan
 14984,35-39,Man,Canada,Doctoral degree,Data Scientist,10-20 years,3,4-5 years,Medical/Pharmaceutical,0-49 employees,1-2,"70,000-79,999"
-14985,40-44,Woman,South Korea,Bachelor’s degree,Other,No experience,0,,Marketing/CRM,50-249 employees,0,">1,000,000"
+14985,40-44,Woman,South Korea,Bachelor’s degree,Other,No experience,0,,Marketing/CRM,50-249 employees,0,"1,000,000"
 14986,60-69,Man,USA,Bachelor’s degree,Other,1-3 years,1,1-2 years,Other,"1000-9,999 employees",15-19,"125,000-149,999"
 14987,18-21,Man,India,Bachelor’s degree,Currently not employed,< 1 years,2,Under 1 year,,,,nan
 14988,22-24,Man,Pakistan,Bachelor’s degree,Student,1-3 years,5,No experience,,,,nan
@@ -15365,7 +15365,7 @@
 15364,25-29,Man,Bangladesh,Master’s degree,Statistician,1-3 years,2,2-3 years,Medical/Pharmaceutical,"1000-9,999 employees",10-14,"5,000-7,499"
 15365,22-24,Man,USA,Master’s degree,Data Scientist,5-10 years,1,4-5 years,Online Service/Internet-based Services,250-999 employees,20+,"150,000-199,999"
 15366,40-44,Man,India,Bachelor’s degree,Product Manager,< 1 years,1,Under 1 year,Computers/Technology,"1000-9,999 employees",1-2,"40,000-49,999"
-15367,55-59,Man,Indonesia,Master’s degree,Data Scientist,20+ years,5,20 or more years,Computers/Technology,50-249 employees,10-14,">1,000,000"
+15367,55-59,Man,Indonesia,Master’s degree,Data Scientist,20+ years,5,20 or more years,Computers/Technology,50-249 employees,10-14,"1,000,000"
 15368,45-49,Man,South Korea,Doctoral degree,Data Scientist,20+ years,3,20 or more years,Computers/Technology,250-999 employees,20+,"90,000-99,999"
 15369,45-49,Man,Sweden,Master’s degree,Program/Project Manager,5-10 years,1,Under 1 year,Medical/Pharmaceutical,"1000-9,999 employees",10-14,"80,000-89,999"
 15370,18-21,Woman,India,Bachelor’s degree,Student,1-3 years,4,,,,,nan
@@ -16881,7 +16881,7 @@
 16880,45-49,Man,Colombia,Bachelor’s degree,Software Engineer,20+ years,5,Under 1 year,Insurance/Risk Assessment,50-249 employees,1-2,"1,000-1,999"
 16881,25-29,Man,Thailand,Master’s degree,Machine Learning Engineer,5-10 years,7,2-3 years,Computers/Technology,0-49 employees,1-2,"20,000-24,999"
 16882,35-39,Man,Chile,Doctoral degree,Research Scientist,1-3 years,3,1-2 years,Medical/Pharmaceutical,250-999 employees,0,0-999
-16883,35-39,Man,Nigeria,Professional doctorate,Software Engineer,5-10 years,1,No experience,Energy/Mining,"1000-9,999 employees",20+,">1,000,000"
+16883,35-39,Man,Nigeria,Professional doctorate,Software Engineer,5-10 years,1,No experience,Energy/Mining,"1000-9,999 employees",20+,"1,000,000"
 16884,22-24,Man,Spain,Doctoral degree,Research Scientist,1-3 years,2,2-3 years,Medical/Pharmaceutical,"1000-9,999 employees",3-4,"1,000-1,999"
 16885,35-39,Man,USA,Master’s degree,Data Analyst,5-10 years,4,1-2 years,Medical/Pharmaceutical,"1000-9,999 employees",1-2,"80,000-89,999"
 16886,40-44,Man,Japan,Bachelor’s degree,Currently not employed,20+ years,2,3-4 years,,,,nan
@@ -17238,7 +17238,7 @@
 17237,25-29,Man,Other,Bachelor’s degree,Statistician,< 1 years,3,Under 1 year,Academics/Education,0-49 employees,0,0-999
 17238,18-21,Woman,India,Bachelor’s degree,Software Engineer,1-3 years,5,1-2 years,Computers/Technology,0-49 employees,10-14,0-999
 17239,25-29,Man,India,Bachelor’s degree,Data Scientist,3-5 years,1,3-4 years,Computers/Technology,0-49 employees,3-4,"40,000-49,999"
-17240,22-24,Man,Other,I prefer not to answer,Software Engineer,No experience,0,,Computers/Technology,"10,000 or more employees",20+,">1,000,000"
+17240,22-24,Man,Other,I prefer not to answer,Software Engineer,No experience,0,,Computers/Technology,"10,000 or more employees",20+,"1,000,000"
 17241,35-39,Woman,Canada,Master’s degree,Data Scientist,10-20 years,3,4-5 years,Insurance/Risk Assessment,"1000-9,999 employees",20+,"70,000-79,999"
 17242,25-29,Man,Viet Nam,High school,Data Analyst,3-5 years,2,2-3 years,Marketing/CRM,250-999 employees,5-9,0-999
 17243,30-34,Man,India,Master’s degree,Machine Learning Engineer,1-3 years,2,,,,,nan
@@ -17517,7 +17517,7 @@
 17516,40-44,Man,Mexico,Master’s degree,Data Engineer,10-20 years,4,2-3 years,Energy/Mining,"1000-9,999 employees",5-9,"20,000-24,999"
 17517,30-34,Woman,India,Master’s degree,Data Analyst,3-5 years,3,2-3 years,Non-profit/Service,0-49 employees,3-4,0-999
 17518,22-24,Man,India,Master’s degree,Student,< 1 years,1,Under 1 year,,,,nan
-17519,30-34,Man,India,Bachelor’s degree,Product Manager,5-10 years,4,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,">1,000,000"
+17519,30-34,Man,India,Bachelor’s degree,Product Manager,5-10 years,4,5-10 years,Accounting/Finance,"1000-9,999 employees",20+,"1,000,000"
 17520,18-21,Man,Nepal,Some college no bachelor,Data Scientist,1-3 years,2,No experience,Online Business/Internet-based Sales,50-249 employees,1-2,"2,000-2,999"
 17521,18-21,Man,India,Master’s degree,Currently not employed,1-3 years,2,,,,,nan
 17522,55-59,Man,Japan,Master’s degree,Other,3-5 years,2,1-2 years,Manufacturing/Fabrication,"1000-9,999 employees",1-2,"80,000-89,999"
@@ -17565,7 +17565,7 @@
 17564,25-29,Woman,India,Master’s degree,Data Scientist,< 1 years,1,Under 1 year,Manufacturing/Fabrication,250-999 employees,1-2,0-999
 17565,18-21,Man,India,High school,Student,< 1 years,3,Under 1 year,,,,nan
 17566,55-59,Man,USA,Master’s degree,Program/Project Manager,5-10 years,3,20 or more years,Accounting/Finance,50-249 employees,10-14,"250,000-299,999"
-17567,30-34,Man,USA,Bachelor’s degree,Data Analyst,5-10 years,2,3-4 years,Academics/Education,0-49 employees,15-19,">1,000,000"
+17567,30-34,Man,USA,Bachelor’s degree,Data Analyst,5-10 years,2,3-4 years,Academics/Education,0-49 employees,15-19,"1,000,000"
 17568,18-21,Man,Taiwan,Some college no bachelor,Student,< 1 years,4,,,,,nan
 17569,18-21,Man,India,Some college no bachelor,Data Analyst,No experience,0,,Academics/Education,0-49 employees,3-4,0-999
 17570,25-29,Man,Other,Bachelor’s degree,Data Scientist,3-5 years,3,2-3 years,Broadcasting/Communications,"10,000 or more employees",3-4,"7,500-9,999"
@@ -18424,7 +18424,7 @@
 18423,30-34,Man,Australia,Some college no bachelor,Other,No experience,0,,Computers/Technology,0-49 employees,0,"100,000-124,999"
 18424,30-34,Man,France,Master’s degree,Data Scientist,5-10 years,4,5-10 years,Military/Security/Defense,"10,000 or more employees",5-9,"30,000-39,999"
 18425,35-39,Man,Kenya,Master’s degree,Statistician,5-10 years,2,1-2 years,Non-profit/Service,0-49 employees,3-4,"10,000-14,999"
-18426,22-24,Man,India,Doctoral degree,Data Engineer,3-5 years,4,1-2 years,Computers/Technology,"10,000 or more employees",20+,">1,000,000"
+18426,22-24,Man,India,Doctoral degree,Data Engineer,3-5 years,4,1-2 years,Computers/Technology,"10,000 or more employees",20+,"1,000,000"
 18427,45-49,Man,Australia,Master’s degree,Other,1-3 years,2,1-2 years,Broadcasting/Communications,"1000-9,999 employees",20+,"90,000-99,999"
 18428,25-29,Man,Mexico,Bachelor’s degree,Student,< 1 years,1,Under 1 year,,,,nan
 18429,18-21,Man,Russia,Bachelor’s degree,Student,1-3 years,4,1-2 years,,,,nan
@@ -19112,7 +19112,7 @@
 19111,22-24,Man,Indonesia,Bachelor’s degree,Statistician,< 1 years,1,Under 1 year,Medical/Pharmaceutical,"1000-9,999 employees",10-14,0-999
 19112,35-39,Man,Russia,Doctoral degree,Statistician,5-10 years,3,1-2 years,Academics/Education,"10,000 or more employees",1-2,"20,000-24,999"
 19113,18-21,Man,India,Bachelor’s degree,Student,3-5 years,1,1-2 years,,,,nan
-19114,40-44,Man,USA,Doctoral degree,Data Scientist,10-20 years,5,10-20 years,Accounting/Finance,"10,000 or more employees",20+,">1,000,000"
+19114,40-44,Man,USA,Doctoral degree,Data Scientist,10-20 years,5,10-20 years,Accounting/Finance,"10,000 or more employees",20+,"1,000,000"
 19115,30-34,Man,Australia,Master’s degree,Data Scientist,10-20 years,4,2-3 years,Other,0-49 employees,3-4,"80,000-89,999"
 19116,18-21,Woman,India,Bachelor’s degree,Student,< 1 years,4,Under 1 year,,,,nan
 19117,40-44,Man,Israel,Doctoral degree,Data Scientist,10-20 years,1,4-5 years,Online Service/Internet-based Services,"1000-9,999 employees",5-9,"125,000-149,999"
@@ -19901,7 +19901,7 @@
 19900,22-24,Woman,Taiwan,I prefer not to answer,Student,1-3 years,2,1-2 years,,,,nan
 19901,45-49,Man,Egypt,Bachelor’s degree,Product Manager,< 1 years,3,Under 1 year,Manufacturing/Fabrication,0-49 employees,1-2,nan
 19902,22-24,Man,Pakistan,Master’s degree,Student,1-3 years,3,Under 1 year,,,,nan
-19903,22-24,Other,Other,High school,Other,3-5 years,2,No experience,Other,"10,000 or more employees",20+,">1,000,000"
+19903,22-24,Other,Other,High school,Other,3-5 years,2,No experience,Other,"10,000 or more employees",20+,"1,000,000"
 19904,45-49,Man,Brazil,Bachelor’s degree,Other,< 1 years,2,Under 1 year,Academics/Education,0-49 employees,0,"20,000-24,999"
 19905,30-34,Man,Japan,Bachelor’s degree,Other,1-3 years,1,No experience,Manufacturing/Fabrication,"10,000 or more employees",20+,"5,000-7,499"
 19906,30-34,Man,UK,Master’s degree,Data Analyst,< 1 years,2,No experience,Accounting/Finance,"1000-9,999 employees",10-14,"30,000-39,999"
@@ -19943,7 +19943,7 @@
 19942,22-24,Man,Australia,Master’s degree,Data Scientist,1-3 years,2,2-3 years,Accounting/Finance,"10,000 or more employees",20+,"100,000-124,999"
 19943,18-21,Man,India,Bachelor’s degree,Student,3-5 years,3,No experience,,,,nan
 19944,25-29,Man,USA,Bachelor’s degree,Currently not employed,3-5 years,1,Under 1 year,,,,nan
-19945,40-44,Man,Israel,Master’s degree,Product Manager,< 1 years,2,1-2 years,Computers/Technology,"10,000 or more employees",20+,">1,000,000"
+19945,40-44,Man,Israel,Master’s degree,Product Manager,< 1 years,2,1-2 years,Computers/Technology,"10,000 or more employees",20+,"1,000,000"
 19946,22-24,Man,China,Master’s degree,Student,3-5 years,2,,,,,nan
 19947,25-29,Woman,Spain,Master’s degree,Data Scientist,3-5 years,2,4-5 years,Marketing/CRM,"1000-9,999 employees",5-9,"25,000-29,999"
 19948,30-34,Man,India,Master’s degree,Other,1-3 years,2,Under 1 year,Computers/Technology,"10,000 or more employees",0,"20,000-24,999"
@@ -19997,7 +19997,7 @@
 19996,35-39,Other,Russia,Master’s degree,Currently not employed,5-10 years,5,1-2 years,,,,nan
 19997,18-21,Man,India,Bachelor’s degree,Student,1-3 years,2,Under 1 year,,,,nan
 19998,40-44,Man,Brazil,Doctoral degree,Data Scientist,3-5 years,3,3-4 years,Academics/Education,"1000-9,999 employees",0,"25,000-29,999"
-19999,35-39,Man,Germany,Master’s degree,Data Analyst,< 1 years,2,Under 1 year,Online Service/Internet-based Services,50-249 employees,5-9,">1,000,000"
+19999,35-39,Man,Germany,Master’s degree,Data Analyst,< 1 years,2,Under 1 year,Online Service/Internet-based Services,50-249 employees,5-9,"1,000,000"
 20000,22-24,Other,Canada,Master’s degree,Data Scientist,3-5 years,6,1-2 years,Computers/Technology,"1000-9,999 employees",3-4,"50,000-59,999"
 20001,22-24,Woman,USA,Master’s degree,Student,1-3 years,4,Under 1 year,,,,nan
 20002,45-49,Man,France,Master’s degree,Statistician,20+ years,2,5-10 years,Insurance/Risk Assessment,"10,000 or more employees",10-14,"90,000-99,999"
@@ -20309,7 +20309,7 @@
 20308,55-59,Man,Chile,Bachelor’s degree,Other,1-3 years,3,No experience,Academics/Education,250-999 employees,20+,"10,000-14,999"
 20309,18-21,Man,India,Bachelor’s degree,Data Engineer,1-3 years,5,Under 1 year,Academics/Education,0-49 employees,3-4,nan
 20310,25-29,Man,Nigeria,Bachelor’s degree,Data Engineer,< 1 years,3,,,,,nan
-20311,25-29,Man,USA,Master’s degree,Software Engineer,10-20 years,2,5-10 years,Online Business/Internet-based Sales,"1000-9,999 employees",20+,">1,000,000"
+20311,25-29,Man,USA,Master’s degree,Software Engineer,10-20 years,2,5-10 years,Online Business/Internet-based Sales,"1000-9,999 employees",20+,"1,000,000"
 20312,30-34,Man,Poland,Doctoral degree,Data Scientist,10-20 years,5,3-4 years,Academics/Education,250-999 employees,20+,"60,000-69,999"
 20313,55-59,Man,Russia,Master’s degree,Other,3-5 years,1,3-4 years,Academics/Education,0-49 employees,0,"20,000-24,999"
 20314,22-24,Man,India,Some college no bachelor,Student,1-3 years,1,No experience,,,,nan
@@ -20338,7 +20338,7 @@
 20337,30-34,Man,Nigeria,Master’s degree,Machine Learning Engineer,3-5 years,3,3-4 years,Academics/Education,"1000-9,999 employees",5-9,0-999
 20338,30-34,Man,Japan,High school,Software Engineer,3-5 years,3,Under 1 year,Manufacturing/Fabrication,"1000-9,999 employees",1-2,"50,000-59,999"
 20339,35-39,Man,Uganda,Bachelor’s degree,Data Scientist,1-3 years,2,1-2 years,Computers/Technology,0-49 employees,1-2,"1,000-1,999"
-20340,18-21,Man,India,Bachelor’s degree,Data Scientist,1-3 years,7,1-2 years,Academics/Education,0-49 employees,3-4,">1,000,000"
+20340,18-21,Man,India,Bachelor’s degree,Data Scientist,1-3 years,7,1-2 years,Academics/Education,0-49 employees,3-4,"1,000,000"
 20341,25-29,Woman,USA,Master’s degree,Data Analyst,5-10 years,2,1-2 years,Marketing/CRM,"10,000 or more employees",20+,"70,000-79,999"
 20342,22-24,Woman,India,Master’s degree,Student,5-10 years,2,2-3 years,,,,nan
 20343,30-34,Man,Nigeria,Master’s degree,Product Manager,< 1 years,3,No experience,Other,0-49 employees,1-2,0-999
@@ -20598,7 +20598,7 @@
 20597,22-24,Woman,Indonesia,Bachelor’s degree,Statistician,1-3 years,1,Under 1 year,Government/Public Service,50-249 employees,3-4,0-999
 20598,25-29,Woman,USA,Bachelor’s degree,Data Scientist,5-10 years,2,5-10 years,Retail/Sales,250-999 employees,5-9,"150,000-199,999"
 20599,45-49,Man,Australia,Bachelor’s degree,Other,3-5 years,2,3-4 years,Energy/Mining,"1000-9,999 employees",1-2,"150,000-199,999"
-20600,45-49,Man,Argentina,Master’s degree,Business Analyst,5-10 years,2,No experience,Accounting/Finance,"1000-9,999 employees",3-4,">1,000,000"
+20600,45-49,Man,Argentina,Master’s degree,Business Analyst,5-10 years,2,No experience,Accounting/Finance,"1000-9,999 employees",3-4,"1,000,000"
 20601,30-34,Man,Netherlands,Master’s degree,Student,< 1 years,2,Under 1 year,,,,nan
 20602,30-34,Man,UK,Master’s degree,Data Scientist,5-10 years,2,4-5 years,Online Business/Internet-based Sales,250-999 employees,5-9,"90,000-99,999"
 20603,18-21,Man,India,Bachelor’s degree,Student,1-3 years,4,1-2 years,,,,nan
@@ -20758,7 +20758,7 @@
 20757,22-24,Man,Tunisia,Master’s degree,Student,1-3 years,3,Under 1 year,,,,nan
 20758,35-39,Man,Turkey,Master’s degree,Software Engineer,5-10 years,3,Under 1 year,Academics/Education,0-49 employees,3-4,"15,000-19,999"
 20759,50-54,Man,South Korea,Doctoral degree,Other,20+ years,7,Under 1 year,Non-profit/Service,0-49 employees,1-2,"5,000-7,499"
-20760,40-44,Man,Switzerland,Doctoral degree,Other,20+ years,1,5-10 years,Computers/Technology,0-49 employees,5-9,">1,000,000"
+20760,40-44,Man,Switzerland,Doctoral degree,Other,20+ years,1,5-10 years,Computers/Technology,0-49 employees,5-9,"1,000,000"
 20761,45-49,Woman,USA,Bachelor’s degree,Data Engineer,10-20 years,8,3-4 years,Accounting/Finance,"1000-9,999 employees",5-9,0-999
 20762,30-34,Man,Viet Nam,Some college no bachelor,Student,< 1 years,2,Under 1 year,,,,nan
 20763,22-24,Woman,India,Bachelor’s degree,Student,1-3 years,3,1-2 years,,,,nan
@@ -21127,7 +21127,7 @@
 21126,30-34,Man,India,Bachelor’s degree,Business Analyst,1-3 years,2,No experience,Computers/Technology,"10,000 or more employees",20+,"10,000-14,999"
 21127,18-21,Woman,Ukraine,Bachelor’s degree,Student,3-5 years,3,,,,,nan
 21128,18-21,Man,India,Bachelor’s degree,Student,1-3 years,3,Under 1 year,,,,nan
-21129,22-24,Man,China,Master’s degree,Program/Project Manager,1-3 years,2,Under 1 year,Academics/Education,50-249 employees,5-9,">1,000,000"
+21129,22-24,Man,China,Master’s degree,Program/Project Manager,1-3 years,2,Under 1 year,Academics/Education,50-249 employees,5-9,"1,000,000"
 21130,22-24,Man,Bangladesh,Master’s degree,Data Scientist,1-3 years,4,2-3 years,Academics/Education,0-49 employees,1-2,0-999
 21131,18-21,Man,India,Bachelor’s degree,Student,< 1 years,1,No experience,,,,nan
 21132,18-21,Woman,Indonesia,Some college no bachelor,Student,1-3 years,4,,,,,nan
@@ -22237,7 +22237,7 @@
 22236,50-54,Woman,USA,Bachelor’s degree,Data Analyst,< 1 years,2,No experience,Academics/Education,250-999 employees,0,"20,000-24,999"
 22237,50-54,Man,France,Master’s degree,Other,5-10 years,2,1-2 years,Insurance/Risk Assessment,"10,000 or more employees",20+,"100,000-124,999"
 22238,30-34,Man,India,High school,Business Analyst,< 1 years,1,Under 1 year,Accounting/Finance,50-249 employees,1-2,"2,000-2,999"
-22239,18-21,Man,Russia,Some college no bachelor,Machine Learning Engineer,1-3 years,4,Under 1 year,Academics/Education,0-49 employees,0,">1,000,000"
+22239,18-21,Man,Russia,Some college no bachelor,Machine Learning Engineer,1-3 years,4,Under 1 year,Academics/Education,0-49 employees,0,"1,000,000"
 22240,30-34,Man,Brazil,Master’s degree,Software Engineer,5-10 years,4,1-2 years,Government/Public Service,50-249 employees,5-9,"15,000-19,999"
 22241,40-44,Man,Other,Bachelor’s degree,Research Scientist,20+ years,5,Under 1 year,Computers/Technology,50-249 employees,20+,"70,000-79,999"
 22242,25-29,Man,Brazil,Master’s degree,Currently not employed,3-5 years,1,Under 1 year,,,,nan
@@ -22467,7 +22467,7 @@
 22466,22-24,Man,India,Bachelor’s degree,Software Engineer,1-3 years,3,1-2 years,Computers/Technology,0-49 employees,0,"5,000-7,499"
 22467,18-21,Man,Iraq,Bachelor’s degree,Student,1-3 years,1,Under 1 year,,,,nan
 22468,18-21,Man,China,Some college no bachelor,Student,1-3 years,4,No experience,,,,nan
-22469,45-49,Man,Russia,Master’s degree,Software Engineer,10-20 years,3,3-4 years,Computers/Technology,50-249 employees,3-4,">1,000,000"
+22469,45-49,Man,Russia,Master’s degree,Software Engineer,10-20 years,3,3-4 years,Computers/Technology,50-249 employees,3-4,"1,000,000"
 22470,60-69,Man,USA,Bachelor’s degree,Data Engineer,20+ years,3,1-2 years,Government/Public Service,"1000-9,999 employees",20+,nan
 22471,50-54,Woman,Germany,Professional doctorate,Program/Project Manager,10-20 years,1,No experience,Government/Public Service,250-999 employees,10-14,"3,000-3,999"
 22472,35-39,Man,Russia,Master’s degree,Other,< 1 years,1,Under 1 year,Computers/Technology,250-999 employees,5-9,"10,000-14,999"
@@ -23598,7 +23598,7 @@
 23597,22-24,Man,India,Master’s degree,Data Analyst,1-3 years,1,Under 1 year,Computers/Technology,0-49 employees,3-4,"4,000-4,999"
 23598,25-29,Other,Malaysia,Master’s degree,Software Engineer,3-5 years,2,1-2 years,Academics/Education,250-999 employees,3-4,0-999
 23599,30-34,Man,USA,Master’s degree,Data Analyst,3-5 years,3,1-2 years,Academics/Education,50-249 employees,1-2,0-999
-23600,55-59,Other,USA,Master’s degree,Other,20+ years,4,5-10 years,Computers/Technology,0-49 employees,1-2,">1,000,000"
+23600,55-59,Other,USA,Master’s degree,Other,20+ years,4,5-10 years,Computers/Technology,0-49 employees,1-2,"1,000,000"
 23601,18-21,Man,South Korea,Bachelor’s degree,Machine Learning Engineer,1-3 years,1,Under 1 year,Academics/Education,0-49 employees,3-4,"1,000-1,999"
 23602,40-44,Man,Thailand,Master’s degree,Software Engineer,1-3 years,1,1-2 years,Manufacturing/Fabrication,0-49 employees,1-2,"30,000-39,999"
 23603,45-49,Man,Taiwan,Bachelor’s degree,Currently not employed,5-10 years,4,Under 1 year,,,,nan
@@ -23883,7 +23883,7 @@
 23882,18-21,Woman,India,Bachelor’s degree,Student,1-3 years,5,Under 1 year,,,,nan
 23883,30-34,Man,Czech Republic,Master’s degree,Machine Learning Engineer,10-20 years,2,4-5 years,Online Service/Internet-based Services,250-999 employees,10-14,"40,000-49,999"
 23884,45-49,Man,Greece,Master’s degree,Other,3-5 years,3,Under 1 year,Academics/Education,0-49 employees,0,"10,000-14,999"
-23885,35-39,Man,Russia,Some college no bachelor,Software Engineer,10-20 years,4,2-3 years,Retail/Sales,50-249 employees,3-4,">1,000,000"
+23885,35-39,Man,Russia,Some college no bachelor,Software Engineer,10-20 years,4,2-3 years,Retail/Sales,50-249 employees,3-4,"1,000,000"
 23886,22-24,Man,India,Bachelor’s degree,Software Engineer,< 1 years,1,Under 1 year,Computers/Technology,"10,000 or more employees",20+,"4,000-4,999"
 23887,30-34,Man,Other,Bachelor’s degree,Currently not employed,No experience,0,,,,,nan
 23888,22-24,Man,Brazil,Bachelor’s degree,Data Analyst,< 1 years,2,Under 1 year,Government/Public Service,0-49 employees,1-2,"4,000-4,999"
@@ -24036,7 +24036,7 @@
 24035,45-49,Man,UK,Doctoral degree,Other,20+ years,5,20 or more years,Academics/Education,250-999 employees,20+,"125,000-149,999"
 24036,25-29,Woman,USA,Bachelor’s degree,Data Scientist,5-10 years,2,1-2 years,Online Service/Internet-based Services,50-249 employees,10-14,"80,000-89,999"
 24037,50-54,Woman,Switzerland,Master’s degree,Other,1-3 years,1,No experience,Government/Public Service,50-249 employees,3-4,nan
-24038,30-34,Man,USA,Doctoral degree,Data Scientist,5-10 years,2,5-10 years,Accounting/Finance,250-999 employees,20+,">1,000,000"
+24038,30-34,Man,USA,Doctoral degree,Data Scientist,5-10 years,2,5-10 years,Accounting/Finance,250-999 employees,20+,"1,000,000"
 24039,55-59,Woman,Singapore,Doctoral degree,Student,10-20 years,2,2-3 years,,,,nan
 24040,50-54,Woman,Egypt,Some college no bachelor,Other,No experience,0,,Other,"10,000 or more employees",0,0-999
 24041,40-44,Man,Germany,Master’s degree,Other,< 1 years,1,Under 1 year,Other,0-49 employees,0,"50,000-59,999"
@@ -24073,7 +24073,7 @@
 24072,22-24,Woman,India,Bachelor’s degree,Software Engineer,1-3 years,3,Under 1 year,Accounting/Finance,"10,000 or more employees",0,"5,000-7,499"
 24073,25-29,Woman,Kenya,Master’s degree,Data Analyst,< 1 years,1,Under 1 year,Online Service/Internet-based Services,0-49 employees,0,0-999
 24074,45-49,Man,India,Master’s degree,Other,20+ years,2,5-10 years,Academics/Education,250-999 employees,10-14,"50,000-59,999"
-24075,30-34,Man,USA,Bachelor’s degree,Other,10-20 years,1,10-20 years,Accounting/Finance,50-249 employees,10-14,">1,000,000"
+24075,30-34,Man,USA,Bachelor’s degree,Other,10-20 years,1,10-20 years,Accounting/Finance,50-249 employees,10-14,"1,000,000"
 24076,55-59,Man,India,Bachelor’s degree,Data Scientist,5-10 years,4,4-5 years,Computers/Technology,"10,000 or more employees",20+,"20,000-24,999"
 24077,35-39,Woman,Ukraine,Doctoral degree,Research Scientist,1-3 years,4,Under 1 year,Academics/Education,50-249 employees,1-2,0-999
 24078,22-24,Man,India,Bachelor’s degree,Student,1-3 years,2,Under 1 year,,,,nan
@@ -24146,14 +24146,14 @@
 24145,35-39,Woman,Turkey,Master’s degree,Data Scientist,5-10 years,3,Under 1 year,Academics/Education,0-49 employees,1-2,"1,000-1,999"
 24146,22-24,Man,Germany,Bachelor’s degree,Student,1-3 years,3,Under 1 year,,,,nan
 24147,25-29,Woman,India,Master’s degree,Student,< 1 years,2,Under 1 year,,,,nan
-24148,22-24,Man,India,Bachelor’s degree,Data Scientist,3-5 years,3,2-3 years,Computers/Technology,0-49 employees,10-14,">1,000,000"
+24148,22-24,Man,India,Bachelor’s degree,Data Scientist,3-5 years,3,2-3 years,Computers/Technology,0-49 employees,10-14,"1,000,000"
 24149,25-29,Man,France,Master’s degree,Data Scientist,1-3 years,1,1-2 years,Computers/Technology,0-49 employees,3-4,"40,000-49,999"
 24150,25-29,Man,Italy,Master’s degree,Software Engineer,3-5 years,3,2-3 years,Academics/Education,"1000-9,999 employees",20+,0-999
 24151,22-24,Man,Other,Bachelor’s degree,Data Engineer,1-3 years,2,Under 1 year,Medical/Pharmaceutical,"1000-9,999 employees",3-4,"50,000-59,999"
 24152,35-39,Man,USA,Master’s degree,Data Analyst,1-3 years,3,No experience,Medical/Pharmaceutical,"1000-9,999 employees",3-4,nan
 24153,22-24,Man,India,Master’s degree,Business Analyst,< 1 years,2,No experience,Computers/Technology,"10,000 or more employees",20+,nan
 24154,25-29,Woman,Belgium,Master’s degree,Student,1-3 years,2,1-2 years,,,,nan
-24155,40-44,Man,Romania,Bachelor’s degree,Business Analyst,3-5 years,3,Under 1 year,Manufacturing/Fabrication,50-249 employees,0,">1,000,000"
+24155,40-44,Man,Romania,Bachelor’s degree,Business Analyst,3-5 years,3,Under 1 year,Manufacturing/Fabrication,50-249 employees,0,"1,000,000"
 24156,30-34,Man,Nigeria,Bachelor’s degree,Data Analyst,< 1 years,1,No experience,Retail/Sales,"1000-9,999 employees",1-2,"7,500-9,999"
 24157,18-21,Man,Bangladesh,Bachelor’s degree,Student,< 1 years,3,Under 1 year,,,,nan
 24158,22-24,Man,Colombia,Master’s degree,Data Scientist,1-3 years,4,1-2 years,Computers/Technology,0-49 employees,3-4,"10,000-14,999"
@@ -24534,7 +24534,7 @@
 24533,35-39,Woman,Nigeria,Bachelor’s degree,Product Manager,No experience,0,,Manufacturing/Fabrication,0-49 employees,1-2,"2,000-2,999"
 24534,30-34,Man,Turkey,Master’s degree,Data Scientist,10-20 years,1,10-20 years,Hospitality/Entertainment/Sports,0-49 employees,1-2,"30,000-39,999"
 24535,25-29,Man,Other,Bachelor’s degree,Currently not employed,5-10 years,2,1-2 years,,,,nan
-24536,22-24,Man,India,Bachelor’s degree,Data Scientist,< 1 years,2,Under 1 year,Computers/Technology,"10,000 or more employees",10-14,">1,000,000"
+24536,22-24,Man,India,Bachelor’s degree,Data Scientist,< 1 years,2,Under 1 year,Computers/Technology,"10,000 or more employees",10-14,"1,000,000"
 24537,18-21,Other,USA,Some college no bachelor,Student,3-5 years,5,Under 1 year,,,,nan
 24538,45-49,Man,Brazil,Doctoral degree,Research Scientist,5-10 years,1,1-2 years,Academics/Education,"1000-9,999 employees",5-9,"60,000-69,999"
 24539,22-24,Man,China,Master’s degree,Student,1-3 years,4,,,,,nan
@@ -24804,7 +24804,7 @@
 24803,35-39,Man,Germany,Doctoral degree,Research Scientist,1-3 years,2,No experience,Medical/Pharmaceutical,"1000-9,999 employees",20+,"50,000-59,999"
 24804,22-24,Man,Tunisia,Master’s degree,Student,1-3 years,4,,,,,nan
 24805,22-24,Man,India,Master’s degree,Machine Learning Engineer,5-10 years,3,1-2 years,Retail/Sales,0-49 employees,5-9,"4,000-4,999"
-24806,25-29,Man,UAE,Bachelor’s degree,Other,< 1 years,2,No experience,Insurance/Risk Assessment,50-249 employees,1-2,">1,000,000"
+24806,25-29,Man,UAE,Bachelor’s degree,Other,< 1 years,2,No experience,Insurance/Risk Assessment,50-249 employees,1-2,"1,000,000"
 24807,30-34,Man,Spain,Master’s degree,Statistician,3-5 years,2,3-4 years,Medical/Pharmaceutical,"10,000 or more employees",1-2,"40,000-49,999"
 24808,30-34,Woman,India,Master’s degree,Machine Learning Engineer,1-3 years,1,Under 1 year,Computers/Technology,"10,000 or more employees",20+,0-999
 24809,18-21,Man,Bangladesh,Some college no bachelor,Student,< 1 years,2,No experience,,,,nan
@@ -25110,7 +25110,7 @@
 25109,40-44,Man,Egypt,Bachelor’s degree,Data Analyst,1-3 years,5,Under 1 year,Computers/Technology,0-49 employees,1-2,0-999
 25110,50-54,Man,Japan,Master’s degree,Data Engineer,1-3 years,3,2-3 years,Computers/Technology,"1000-9,999 employees",5-9,"4,000-4,999"
 25111,40-44,Woman,India,Doctoral degree,Research Scientist,1-3 years,1,,,,,nan
-25112,22-24,Man,India,Bachelor’s degree,Software Engineer,1-3 years,1,2-3 years,Computers/Technology,"1000-9,999 employees",20+,">1,000,000"
+25112,22-24,Man,India,Bachelor’s degree,Software Engineer,1-3 years,1,2-3 years,Computers/Technology,"1000-9,999 employees",20+,"1,000,000"
 25113,30-34,Man,India,Master’s degree,Research Scientist,10-20 years,1,5-10 years,Military/Security/Defense,"1000-9,999 employees",10-14,"20,000-24,999"
 25114,22-24,Man,Italy,Master’s degree,Machine Learning Engineer,5-10 years,2,2-3 years,Other,50-249 employees,3-4,0-999
 25115,45-49,Other,USA,Master’s degree,Business Analyst,20+ years,4,Under 1 year,Accounting/Finance,0-49 employees,1-2,"90,000-99,999"
@@ -25327,7 +25327,7 @@
 25326,40-44,Man,Morocco,Bachelor’s degree,Software Engineer,3-5 years,2,Under 1 year,,,,nan
 25327,30-34,Man,Japan,Bachelor’s degree,Data Analyst,5-10 years,4,5-10 years,Computers/Technology,250-999 employees,20+,"10,000-14,999"
 25328,25-29,Man,Malaysia,Bachelor’s degree,Student,3-5 years,3,Under 1 year,,,,nan
-25329,40-44,Woman,USA,Some college no bachelor,Other,20+ years,8,20 or more years,Online Business/Internet-based Sales,"10,000 or more employees",20+,">1,000,000"
+25329,40-44,Woman,USA,Some college no bachelor,Other,20+ years,8,20 or more years,Online Business/Internet-based Sales,"10,000 or more employees",20+,"1,000,000"
 25330,30-34,Man,Denmark,Master’s degree,Research Scientist,1-3 years,1,Under 1 year,Academics/Education,"1000-9,999 employees",20+,"60,000-69,999"
 25331,55-59,Man,Mexico,Doctoral degree,Data Engineer,< 1 years,1,Under 1 year,Academics/Education,0-49 employees,0,0-999
 25332,22-24,Woman,Hong Kong,Bachelor’s degree,Other,1-3 years,3,No experience,Energy/Mining,"1000-9,999 employees",5-9,nan
@@ -25910,7 +25910,7 @@
 25909,18-21,Man,Bangladesh,Master’s degree,Student,1-3 years,4,2-3 years,,,,nan
 25910,25-29,Woman,India,Master’s degree,Data Analyst,< 1 years,2,,,,,nan
 25911,55-59,Man,USA,Doctoral degree,Data Scientist,20+ years,2,20 or more years,Shipping/Transportation,50-249 employees,10-14,"150,000-199,999"
-25912,18-21,Man,India,Bachelor’s degree,Data Scientist,1-3 years,3,1-2 years,Academics/Education,0-49 employees,0,">1,000,000"
+25912,18-21,Man,India,Bachelor’s degree,Data Scientist,1-3 years,3,1-2 years,Academics/Education,0-49 employees,0,"1,000,000"
 25913,30-34,Man,Other,Some college no bachelor,Other,No experience,0,,Insurance/Risk Assessment,"1000-9,999 employees",3-4,"10,000-14,999"
 25914,18-21,Woman,India,Bachelor’s degree,Student,3-5 years,3,Under 1 year,,,,nan
 25915,45-49,Man,USA,Master’s degree,Product Manager,10-20 years,4,2-3 years,Accounting/Finance,"10,000 or more employees",20+,"200,000-249,999"
