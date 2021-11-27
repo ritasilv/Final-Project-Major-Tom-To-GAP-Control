@@ -44,6 +44,8 @@ Applied boxcox transformation.
 ####  Tableau
 
 I have created a dashboard with a data distribution page, focused on how the data of the survey is distributed and another one with some analysis concerning the gender pay gap.
+Link to Tableau dashboard here (https://public.tableau.com/app/profile/rita.silva5069/viz/MajorTomtoGapControl/Story5#1)
+
 
 #### Models used
 
@@ -51,18 +53,20 @@ For this problem I have decided to use Random Forest Regressor
 
 #### Results and Conclusions
 
-Overall the model did not perform very well, getting a low score not so bad RSME.
+Overall the model did not perform very well, getting a low score not so bad RSME. This could be due to the biased data. Man are overrepresented in the dataset, and some categories did not have enough woman to be relevant for predictions.
+Gender had the lowest score in the feature importance calculation. Mostly due to the biased data.
 
-Highest score achieved with hyperparamenters: 0.32
+Highest accuracy score achieved with hyperparamenters: 0.32
 RSME: 164.03
 
 
 
 #### Main libraries used on the project
 
-- Pandas
-- Seaborn
-- Matplotlib
-- Sklearn
+- Pandas (https://pandas.pydata.org)
+- Seaborn (https://seaborn.pydata.org)
+- Matplotlib (https://matplotlib.org)
+- Sklearn (https://scikit-learn.org/stable/)
+- 
 
 
