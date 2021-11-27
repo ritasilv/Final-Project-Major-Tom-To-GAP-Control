@@ -63,10 +63,10 @@ RSME: 164.03
 
 #### Main libraries used on the project
 
-- Pandas (https://pandas.pydata.org)
-- Seaborn (https://seaborn.pydata.org)
-- Matplotlib (https://matplotlib.org)
-- Sklearn (https://scikit-learn.org/stable/)
+- [Pandas] (https://pandas.pydata.org)
+- [Seaborn] (https://seaborn.pydata.org)
+- [Matplotlib] (https://matplotlib.org)
+- [Sklearn] (https://scikit-learn.org/stable/)
 - 
 
 
