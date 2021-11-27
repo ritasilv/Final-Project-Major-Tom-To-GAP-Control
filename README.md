@@ -1,7 +1,7 @@
 # Final-Project-Major-Tom-To-GAP-Control
 
 
-<img src="gap_c.jpg"
+<img src="gap_c.png"
      alt="gap"
      style="float: left; margin-right: 15px;" />
      
